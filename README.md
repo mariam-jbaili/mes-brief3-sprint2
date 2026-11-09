@@ -93,3 +93,19 @@ Le groupe `champ-campus` est un `fieldset` initialement désactivé. Son activat
 ## Rendu attendu
 
 Remettre le dossier contenant `index.html`, `styles.css`, `script.js` complété et ce README. Être capable d’expliquer les événements utilisés, le clonage des templates, la validation et la mise à jour de `selectedConfig`.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://mariam-jbaili.github.io/mes-brief3-sprint2/
+
